@@ -1,2 +1,2 @@
-imoort SAJAD
+import SAJAD
 SAJAD.xoshnaw()
