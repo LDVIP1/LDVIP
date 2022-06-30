@@ -1,0 +1,2 @@
+imoort SAJAD
+SAJAD.xoshnaw()
